@@ -73,7 +73,7 @@ A listing of each plugin and the current version included in this package is lis
 #### [grunt-contrib-less](https://github.com/gruntjs/grunt-contrib-less) (v0.5.0) [![Build Status](https://secure.travis-ci.org/gruntjs/grunt-contrib-less.png?branch=master)](http://travis-ci.org/gruntjs/grunt-contrib-less)
 > Compile LESS files to CSS.
 
-#### [grunt-contrib-livereload](https://github.com/gruntjs/grunt-contrib-livereload) (v0.1.1) [![Build Status](https://secure.travis-ci.org/gruntjs/grunt-contrib-livereload.png?branch=master)](http://travis-ci.org/gruntjs/grunt-contrib-livereload)
+#### [grunt-contrib-livereload](https://github.com/gruntjs/grunt-contrib-livereload) (v0.1.2) [![Build Status](https://secure.travis-ci.org/gruntjs/grunt-contrib-livereload.png?branch=master)](http://travis-ci.org/gruntjs/grunt-contrib-livereload)
 > Reload assets live in the browser
 
 #### [grunt-contrib-nodeunit](https://github.com/gruntjs/grunt-contrib-nodeunit) (v0.1.2) [![Build Status](https://secure.travis-ci.org/gruntjs/grunt-contrib-nodeunit.png?branch=master)](http://travis-ci.org/gruntjs/grunt-contrib-nodeunit)
